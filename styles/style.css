@@ -394,3 +394,22 @@ Blog-section Media query
         flex-direction: row;
     }
 }
+
+/*----------------------------
+     Second-website-style 
+------------------------------*/
+.country-flag {
+    display: flex;
+    justify-content: space-between;
+}
+
+article.team {
+    width: 263px;
+    border: 1px solid #b8afaf;
+    border-radius: 5px;
+    padding: 60px 30px;
+}
+.play-info {
+    text-align: center;
+    font-size: 19px;
+}
